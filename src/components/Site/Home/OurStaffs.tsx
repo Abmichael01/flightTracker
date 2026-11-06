@@ -15,42 +15,42 @@ export default function TeamSection(): React.JSX.Element {
       id: 1,
       name: "DAVID ANDERSON",
       position: "CO-FOUNDER",
-      description: "David, a co-founder at MyCargoLane, leads with a commitment to innovation and customer satisfaction. His strategic vision ensures that MyCargoLane provides top-notch shipping solutions.",
+      description: "David, a co-founder at MyFlightLookup, leads with a commitment to innovation and customer satisfaction. His strategic vision ensures that MyFlightLookup provides accurate, real-time flight tracking.",
       image: "/f2.jpg"
     },
     {
       id: 2,
       name: "SOPHIE WALKER",
       position: "CO-FOUNDER",
-      description: "Sophie, a co-founder of MyCargoLane, is dedicated to ensuring the smooth operation of our shipping services. Her attention to detail and customer-centric approach drive the success of MyCargoLane.",
+      description: "Sophie, a co-founder of MyFlightLookup, is dedicated to keeping our flight tracking running smoothly. Her attention to detail and customer-centric approach drive the success of MyFlightLookup.",
       image: "/f1.jpg"
     },
     {
       id: 3,
       name: "RYAN CARTER",
       position: "CO-FOUNDER",
-      description: "Ryan, a co-founder at MyCargoLane, brings expertise and passion to the world of logistics. His dedication to efficiency and customer satisfaction sets the standard for our shipping services.",
+      description: "Ryan, a co-founder at MyFlightLookup, brings expertise and passion to the world of aviation. His dedication to accuracy and customer satisfaction sets the standard for our flight tracking.",
       image: "/f3.jpg"
     },
     {
       id: 4,
       name: "EMMA RODRIGUEZ",
       position: "OPERATIONS MANAGER",
-      description: "Emma oversees daily operations at MyCargoLane, ensuring seamless coordination between departments. Her exceptional organizational skills and problem-solving abilities keep our logistics running smoothly.",
+      description: "Emma oversees daily operations at MyFlightLookup, ensuring seamless coordination between departments. Her exceptional organizational skills and problem-solving abilities keep everything running smoothly.",
       image: "/f6.jpg"
     },
     {
       id: 5,
       name: "MICHAEL CHEN",
       position: "HEAD OF CUSTOMER SERVICE",
-      description: "Michael leads our customer service team with dedication and empathy. His commitment to resolving client concerns quickly and effectively has earned MyCargoLane an outstanding customer satisfaction record.",
+      description: "Michael leads our customer service team with dedication and empathy. His commitment to resolving traveller concerns quickly and effectively has earned MyFlightLookup an outstanding customer satisfaction record.",
       image: "/f5.jpg"
     },
     {
       id: 6,
       name: "SARAH THOMPSON",
-      position: "LOGISTICS COORDINATOR",
-      description: "Sarah manages the complex web of shipping routes and delivery schedules. Her analytical approach and attention to detail ensure that every package reaches its destination on time and in perfect condition.",
+      position: "FLIGHT DATA COORDINATOR",
+      description: "Sarah keeps track of the complex web of flight routes and schedules. Her analytical approach and attention to detail ensure that every flight status we show is up to date and accurate.",
       image: "/f4.jpg"
     }
   ];
